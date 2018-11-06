@@ -3,7 +3,7 @@
  * @version 1.0.0
  * @date 29/10/2018
  */
-package Excep;
+package com.Excep;
 
 public class ArithmeticExce {
     public ArithmeticExce() {
